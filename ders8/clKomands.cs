@@ -28,6 +28,7 @@ namespace ders8
             while (true)
             {
                 Console.Clear();
+                FonDefault();
                 Console.WriteLine("Istifadeci girisi");
                 Console.WriteLine(new string('_', 30));
                 Console.WriteLine("");
@@ -51,11 +52,15 @@ namespace ders8
 
                         if (users[i].UserType == UserType.Admin)
                         {
+                            FonAdmin();
                             ListsAdmin();
+                            
                         }
                         else if (users[i].UserType == UserType.User)
                         {
+                            FonUser();
                             ListsUser();
+                            
                         }
                         return;
                     }
@@ -128,7 +133,7 @@ namespace ders8
             Console.WriteLine("User çıxış (U) enter");
             Console.WriteLine("Programdan çıxış (P) enter");
 
-            string secim = Console.ReadLine();
+            string secim = Console.ReadLine().ToUpper();
 
             switch (secim)
             {
@@ -646,7 +651,24 @@ namespace ders8
                 Console.WriteLine("Kino tapılmadı.");
             }
         }
-
+        public static void FonAdmin()
+        {
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Clear();
+        }
+        public static void FonUser()
+        {
+            Console.BackgroundColor = ConsoleColor.Yellow;
+            Console.ForegroundColor = ConsoleColor.Black;
+            Console.Clear();
+        }
+        public static void FonDefault()
+        {
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.Gray;
+            Console.Clear();
+        }
 
     }
 }
