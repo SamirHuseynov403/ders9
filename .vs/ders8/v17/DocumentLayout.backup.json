@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehemmed\\source\\repos\\ders8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|solutionrelative:ders8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\cluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|solutionrelative:ders8\\cluser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|solutionrelative:ders8\\clmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|solutionrelative:ders8\\clgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|c:\\users\\mehemmed\\source\\repos\\ders8\\ders8\\cluserlistmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|solutionrelative:ders8\\cluserlistmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|c:\\users\\mehemmed\\source\\repos\\ders8\\ders8\\clkomands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3405E41F-DD05-4842-B9CA-7E0780F76895}|ders8\\ders8.csproj|solutionrelative:ders8\\clkomands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clUserListMovie.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clUserListMovie.cs",
+              "RelativeDocumentMoniker": "ders8\\clUserListMovie.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clUserListMovie.cs",
+              "RelativeToolTip": "ders8\\clUserListMovie.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:47:30.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clGenre.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clGenre.cs",
+              "RelativeDocumentMoniker": "ders8\\clGenre.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clGenre.cs",
+              "RelativeToolTip": "ders8\\clGenre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T11:56:31.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clKomands.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clKomands.cs",
+              "RelativeDocumentMoniker": "ders8\\clKomands.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clKomands.cs",
+              "RelativeToolTip": "ders8\\clKomands.cs",
+              "ViewState": "AgIAAO4AAAAAAAAAAAA2wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:17:55.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clMovie.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clMovie.cs",
+              "RelativeDocumentMoniker": "ders8\\clMovie.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clMovie.cs",
+              "RelativeToolTip": "ders8\\clMovie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:06:43.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clUser.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clUser.cs",
+              "RelativeDocumentMoniker": "ders8\\clUser.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\clUser.cs",
+              "RelativeToolTip": "ders8\\clUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:06:11.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\Program.cs",
+              "RelativeDocumentMoniker": "ders8\\Program.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\ders8\\ders8\\Program.cs",
+              "RelativeToolTip": "ders8\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:36:42.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

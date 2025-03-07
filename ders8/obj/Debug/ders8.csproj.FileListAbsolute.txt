@@ -1,0 +1,7 @@
+C:\Users\mehemmed\source\repos\ders8\ders8\bin\Debug\ders8.exe.config
+C:\Users\mehemmed\source\repos\ders8\ders8\bin\Debug\ders8.exe
+C:\Users\mehemmed\source\repos\ders8\ders8\bin\Debug\ders8.pdb
+C:\Users\mehemmed\source\repos\ders8\ders8\obj\Debug\ders8.csproj.AssemblyReference.cache
+C:\Users\mehemmed\source\repos\ders8\ders8\obj\Debug\ders8.csproj.CoreCompileInputs.cache
+C:\Users\mehemmed\source\repos\ders8\ders8\obj\Debug\ders8.exe
+C:\Users\mehemmed\source\repos\ders8\ders8\obj\Debug\ders8.pdb
